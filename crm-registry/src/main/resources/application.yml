@@ -1,0 +1,9 @@
+server:
+  port: 10086
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:${server.port}/eureka #defaultZone后面要加个空格
+    fetch-registry: false #表示是否从注册中心获取服务，默认为true
+    register-with-eureka: false #不允许自己注册自己
+

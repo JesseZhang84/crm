@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed5a71bb-e425-42d1-908f-28b2b922df5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\Repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvZR8bSA7GVMzrR5pmJvwCs7nB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crm-common/src/main/java/com/crm/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crm.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\code\crm\crm-common\src\main\java\com\crm\utils" />
+      <recent name="D:\idea\code\crm\crm-systemset\crm-systemset-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CrmSystemsetApplication">
+    <configuration name="CrmGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crm-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrmRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crm-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrmSystemsetApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crm-systemset-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmSystemsetApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CrmGatewayApplication" />
+      <item itemvalue="Spring Boot.CrmRegistryApplication" />
+      <item itemvalue="Spring Boot.CrmSystemsetApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CrmSystemsetApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18160743" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5a71bb-e425-42d1-908f-28b2b922df5a" name="Default Changelist" comment="" />
+      <created>1583825017334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583825017334</updated>
+      <workItem from="1583825020377" duration="6666000" />
+      <workItem from="1583841629470" duration="6173000" />
+      <workItem from="1583886078344" duration="3092000" />
+      <workItem from="1583890066232" duration="773000" />
+      <workItem from="1583891033123" duration="1801000" />
+      <workItem from="1583892909881" duration="4152000" />
+      <workItem from="1583993119455" duration="200000" />
+      <workItem from="1583993406914" duration="608000" />
+      <workItem from="1583994078828" duration="5017000" />
+      <workItem from="1584020021704" duration="1128000" />
+      <workItem from="1584061718789" duration="10678000" />
+      <workItem from="1584082553089" duration="3404000" />
+      <workItem from="1584144876840" duration="2153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="45" key="#HTTP_Proxy" timestamp="1583894458295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="286" y="45" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1583894458295" />
+    <state x="21" y="0" width="816" height="728" key="#Intentions" timestamp="1584068088087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="21" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1584068088087" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1583825022832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583825022832" />
+    <state x="275" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583995494243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583995494243" />
+    <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1584149267066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584149267066" />
+    <state width="1058" height="183" key="GridCell.Tab.0.bottom" timestamp="1584149390056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
+    <state width="1058" height="183" key="GridCell.Tab.0.center" timestamp="1584149390056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
+    <state width="1058" height="183" key="GridCell.Tab.0.left" timestamp="1584149390056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
+    <state width="1058" height="183" key="GridCell.Tab.0.right" timestamp="1584149390056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
+    <state width="1058" height="183" key="GridCell.Tab.1.bottom" timestamp="1584149390057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
+    <state width="1058" height="183" key="GridCell.Tab.1.center" timestamp="1584149390057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
+    <state width="1058" height="183" key="GridCell.Tab.1.left" timestamp="1584149390057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
+    <state width="1058" height="183" key="GridCell.Tab.1.right" timestamp="1584149390057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1058" height="183" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
+    <state width="220" height="539" key="HiddenNamespacesPopup" timestamp="1583996092691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="539" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1583996092691" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1583998340534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583998340534" />
+    <state x="265" y="0" width="998" height="708" key="SettingsEditor" timestamp="1584149386117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="0" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584149386117" />
+    <state x="482" y="142" key="chooseDestDirectoryDialog" timestamp="1583997389217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583997389217" />
+    <state x="57" y="0" key="new project wizard" timestamp="1584065085003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584065085003" />
+    <state x="92" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584074259690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="49" width="672" height="6
