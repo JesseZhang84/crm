@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed5a71bb-e425-42d1-908f-28b2b922df5a" name="Default Changelist" comment="" />
+    <list default="true" id="ed5a71bb-e425-42d1-908f-28b2b922df5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spring4all_swagger_spring_boot_starter_1_7_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm-gateway/src/main/java/com/crm/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-common/target/classes/com/crm/enums/ExceptionEnums.class" beforeDir="false" afterPath="$PROJECT_DIR$/crm-common/target/classes/com/crm/enums/ExceptionEnums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-gateway/src/main/java/com/crm/CrmGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-gateway/src/main/java/com/crm/CrmGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/crm-systemset-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/crm-systemset-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/CrmSystemsetApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/CrmSystemsetApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/web/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/web/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/CrmSystemsetApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/CrmSystemsetApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +80,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\idea\code\crm\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -63,6 +102,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YvZR8bSA7GVMzrR5pmJvwCs7nB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,6 +115,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
@@ -191,7 +232,9 @@
       <workItem from="1584020021704" duration="1128000" />
       <workItem from="1584061718789" duration="10678000" />
       <workItem from="1584082553089" duration="3404000" />
-      <workItem from="1584144876840" duration="2153000" />
+      <workItem from="1584144876840" duration="4737000" />
+      <workItem from="1584241732671" duration="2734000" />
+      <workItem from="1584262374207" duration="3517000" />
     </task>
     <servers />
   </component>
@@ -215,42 +258,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583995494243" />
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1584243147047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584243147047" />
     <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1584149267066">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584149267066" />
-    <state width="1058" height="183" key="GridCell.Tab.0.bottom" timestamp="1584149390056">
+    <state width="1058" height="183" key="GridCell.Tab.0.bottom" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
-    <state width="1058" height="183" key="GridCell.Tab.0.center" timestamp="1584149390056">
+    <state width="1058" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
+    <state width="1058" height="183" key="GridCell.Tab.0.center" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
-    <state width="1058" height="183" key="GridCell.Tab.0.left" timestamp="1584149390056">
+    <state width="1058" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
+    <state width="1058" height="183" key="GridCell.Tab.0.left" timestamp="1584274008865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
-    <state width="1058" height="183" key="GridCell.Tab.0.right" timestamp="1584149390056">
+    <state width="1058" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584274008865" />
+    <state width="1058" height="183" key="GridCell.Tab.0.right" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584149390056" />
-    <state width="1058" height="183" key="GridCell.Tab.1.bottom" timestamp="1584149390057">
+    <state width="1058" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
+    <state width="1058" height="183" key="GridCell.Tab.1.bottom" timestamp="1584274008867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
-    <state width="1058" height="183" key="GridCell.Tab.1.center" timestamp="1584149390057">
+    <state width="1058" height="183" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584274008867" />
+    <state width="1058" height="183" key="GridCell.Tab.1.center" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
-    <state width="1058" height="183" key="GridCell.Tab.1.left" timestamp="1584149390057">
+    <state width="1058" height="183" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
+    <state width="1058" height="183" key="GridCell.Tab.1.left" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
-    <state width="1058" height="183" key="GridCell.Tab.1.right" timestamp="1584149390057">
+    <state width="1058" height="183" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
+    <state width="1058" height="183" key="GridCell.Tab.1.right" timestamp="1584274008866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1058" height="183" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584149390057" />
+    <state width="1058" height="183" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584274008866" />
     <state width="220" height="539" key="HiddenNamespacesPopup" timestamp="1583996092691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -274,4 +321,6 @@
     <state x="92" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584074259690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="49" width="672" height="6
+    <state x="92" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584074259690" />
+  </component>
+</project>
